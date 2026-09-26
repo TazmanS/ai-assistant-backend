@@ -58,15 +58,14 @@ Interactive API documentation: `http://localhost:8000/docs`
 
 ## Roadmap
 
-* [x] V1 � Basic LLM Assistant (core API)
-* [ ] Streaming responses
-* [ ] V2 � Tool Calling
-* [ ] V3 � Memory
-* [ ] V4 � RAG
-* [ ] V5 � AI Agent
-* [ ] V6 � MCP Integration
-* [ ] V7 � Multi-Agent System
-* [ ] V8 � Production Deployment
+* [x] V1 Basic LLM Assistant (core API)
+* [ ] V2 Tool Calling
+* [ ] V3 Memory
+* [ ] V4 RAG
+* [ ] V5 AI Agent
+* [ ] V6 MCP Integration
+* [ ] V7 Multi-Agent System
+* [ ] V8 Production Deployment
 
 ## License
 
